@@ -8,7 +8,7 @@ A complete, production-grade, full-stack Gym Management System built with **Pyth
 [![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205-purple.svg)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/License-MIT-orange.svg)]()
 
-> **GitHub Repository:** `https://github.com/PranavBhujbal350/Gym_management_system` *(Replace with your GitHub repo URL)*
+> **GitHub Repository:** `https://github.com/Pratham161106/FitPulse-Gym-Management-System`
 
 ---
 
